@@ -1,0 +1,21 @@
+     ╔═══════════════════════╗
+     ║ A P Y L A B R A D O S ║
+     ╚═══════════════════════╝
+   0 1 2 3 4 5 6 7 8 9 0 1 2 3 4  
+ ╔═══════════════════════════════╗
+0║ ·Este es un humilde clon del· ║
+1║ ·famoso Apalabrados, pero sin ║
+2║ ·pretensiones, es individual· ║
+3║ y en inglés, aunque las reglas║
+4║ ·de colocación en el tablero· ║
+5║ · · son bastante más laxas· · ║
+6║ · · · · · · · · · · · · · · · ║
+7║ ·El juego se termina cuando · ║
+8║ ·le pidas sugerir ubicación · ║
+9║ · · de una palabra y no la· · ║
+0║ · · ·encuentre ¡cuidado!· · · ║
+1║ · · · · · · · · · · · · · · · ║
+2║ ·Guardará tu nombre y record· ║
+3║ · · · · · · · · · · · · · · · ║
+4║ · ·Max Caravazzi, perdóname · ║
+ ╚═══════════════════════════════╝
